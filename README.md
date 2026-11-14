@@ -8,4 +8,6 @@
 ### The Creatinine–eGFR Paradox: Male patients showed consistently higher mean serum creatinine levels across every CKD stage ($2.33\text{ mg/dL}$ overall vs. $2.14\text{ mg/dL}$ in females), yet maintained slightly higher or comparable eGFR levels ($33.58$ vs. $30.73\text{ mL/min/1.73m}^2$). This reflects higher baseline skeletal muscle mass and daily creatine turnover in males rather than genuinely better renal filtration capacity.
 ### Exponential Waste Accumulation: Mapping serum creatinine against eGFR highlighted a sharp curvilinear inverse relationship—once eGFR drops below $30\text{ mL/min/1.73m}^2$ (Stages 4 and 5), minor losses in kidney filtration cause steep, exponential spikes in blood creatinine levels.
 ### Stage Progression Disparities: Male patients concentrated heavily in moderate disease (Stage 3, at $45.58\%$ vs. $31.50\%$ of females), while a higher proportion of female patients presented in end-stage impairment (Stage 5, at $26.01\%$ vs. $15.03\%$ of males), underscoring the critical importance of muscle-adjusted eGFR formulas for accurate early clinical detection.
-### Always fascinating seeing how human physiology directly shapes clinical data! How do you handle demographic confounding variables in your healthcare data projects? Feel free to share your thoughts or reach out below
+
+
+#Pythonstudygroup #Python #Dataanalysis 
